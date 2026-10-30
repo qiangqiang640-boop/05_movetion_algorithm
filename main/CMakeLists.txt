@@ -1,0 +1,1 @@
+idf_component_register(SRCS "motion_detect.c" "uart_comm.c" "audio_playback.c" "audio_mic.c" "LCD.c" "main.c" "app_wifi.c" "camera.c" INCLUDE_DIRS "." )
